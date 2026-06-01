@@ -1,0 +1,25 @@
+# LaunchLift AI
+
+LaunchLift AI is a cloud-based product for turning no-code and web apps into Android launch packages.
+
+Primary audience:
+- Lovable, Bubble, Webflow, FlutterFlow, PWA, and custom web app builders
+- No-code founders who want Android packaging without learning Android Studio
+- Agencies that need repeatable Android launch packages for client web apps
+
+Core value:
+- Keep the existing PWA or web app live
+- Add a Google Play Android channel
+- Generate launch assets, Play Store copy, data safety notes, policy drafts, native feature plans, APK/AAB build paths, signed artifact handoff, and upgrade history
+
+Important pages:
+- https://launchliftai.com/
+- https://launchliftai.com/lovable-to-android
+- https://launchliftai.com/bubble-to-android
+- https://launchliftai.com/webflow-to-android
+- https://launchliftai.com/flutterflow-web-to-android
+- https://launchliftai.com/pwa-to-play-store
+- https://launchliftai.com/website-to-apk-aab
+
+Support:
+- support@launchliftai.com

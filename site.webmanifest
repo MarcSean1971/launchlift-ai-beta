@@ -1,0 +1,17 @@
+{
+  "name": "LaunchLift AI",
+  "short_name": "LaunchLift",
+  "description": "AI-guided Android launch packaging for no-code and web app builders.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#171123",
+  "theme_color": "#0f766e",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
